@@ -2,6 +2,13 @@
 
 This bot allow you to send any number of messages to any of your whatsapp contact using python and selenium.This is a whatsapp Bomber but all the bombing will be through your Number to any of your contact.
 <br>
+<br>
+
+Author👨‍💻: https://github.com/khansaad1275 <br>
+
+Website🌎: www.Learntermux.tech <br>
+
+Instagram : https://www.instagram.com/skhan_official/ <br>
 # Install📲:
 
 ### Step 1:
