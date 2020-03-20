@@ -9,6 +9,7 @@ Author👨‍💻: https://github.com/khansaad1275 <br>
 Website🌎: www.Learntermux.tech <br>
 
 Instagram : https://www.instagram.com/skhan_official/ <br>
+<br>
 # Install📲:
 
 ### Step 1:
