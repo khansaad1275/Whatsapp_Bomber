@@ -16,6 +16,9 @@ Instagram : https://www.instagram.com/skhan_official/ <br>
 Install Python in Your system and download this zip.
 
 ### Step 2:
+Install chrome driver [Link :https://chromedriver.chromium.org/ ] and put it inside your python folder(Windows user)else please Set the path variable of the chrome driver.
+
+### Step 2:
 install the requirements file using pip command.
 
 `pip install requirements.txt`<br>
