@@ -18,13 +18,13 @@ Install Python in Your system and download this zip.
 ### Step 2:
 Install chrome driver [Link :https://chromedriver.chromium.org/ ] and put it inside your python folder(Windows user)else please Set the path variable of the chrome driver.
 
-### Step 2:
+### Step 3:
 install the requirements file using pip command.
 
 `pip install requirements.txt`<br>
             or<br>
 `pip3 install requirements.txt`
 
-### Step 3:
+### Step 4:
 run the whatsapp-Bot.py file.
 run the bot and you will see everything you want to know at the terminal.
